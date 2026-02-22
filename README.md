@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋 I'm Pankhuri Jain
+## Automation Tester || SDET
 
 <!--
 **PankhuriJain97/PankhuriJain97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +16,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![GitHub Streak](https://streak-stats.demolab.com)](https://git.io/streak-stats)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PankhuriJain97&" alt="PankhuriJain97" /></p>
 
