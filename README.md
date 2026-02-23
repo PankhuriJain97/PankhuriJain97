@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PankhuriJain97&" alt="PankhuriJain97" /></p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=PankhuriJain97&label=Profile%20views&color=0e75b6&style=flat" alt="PankhuriJain97" /> </p>
+
