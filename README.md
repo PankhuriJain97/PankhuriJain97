@@ -1,5 +1,7 @@
-## Hi there 👋 I'm Pankhuri Jain
-## Automation Tester || SDET
+<h1 align="center">Hi 👋, I'm Pankhuri Jain</h1>
+<h3 align="center">Automation Tester</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=PankhuriJain97&label=Profile%20views&color=0e75b6&style=flat" alt="PankhuriJain97" /> </p>
 
 <!--
 **PankhuriJain97/PankhuriJain97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
